@@ -5,22 +5,22 @@ This is a repository dedicated to code extracting data from various websites and
 Packages Used - 
 
 Webscrapping:
-requests
-request-html
-selenium
-plawright
-httpx 
-beautiful soup
-parsel 
+requests,
+request-html,
+selenium,
+plawright,
+httpx, 
+beautiful soup,
+parsel. 
 
 Selectors:
-CSS
-Xpath
+CSS,
+Xpath.
 
 Dataframes:
-Pandas
-Siuba
-SQL
-Excel
+Pandas,
+Siuba,
+SQL,
+Excel.
 
 Another repository will be created exclusively for data manipulation, analysis and visualization.
